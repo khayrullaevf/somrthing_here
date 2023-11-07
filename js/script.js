@@ -228,3 +228,4 @@ searchCountryInput.addEventListener("input", () => {
   const searchValue = searchCountryInput.value.trim();
   updateCards(searchValue);
 });
+//something
